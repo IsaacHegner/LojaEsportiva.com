@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title> Yakuza Esports </title>
+  </head>
+  <body>
+ <h1> Loja esportiva com itens de qualidade Nike, Adidas> </h1>
+ <div class= "principal">
+<p> chuteiras, roupas e diversos acessorios a otimos preço </p>
+</div>
+ <div class= "sapatos"> 
+ <h2> ITENS </2>
+ <ul>
+ <li class="item"> Chuteira </li>
+ <li class="item"> Roupas </li>
+ <li class="item"> Acesorios </li>
+</ul>
+ </div>
+</body>
+</html>
